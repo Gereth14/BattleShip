@@ -1,0 +1,11 @@
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.csproj.AssemblyReference.cache
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\bin\Debug\BattleshipCsharp.exe.config
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\bin\Debug\BattleshipCsharp.exe
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\bin\Debug\BattleshipCsharp.pdb
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.exe
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.pdb
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\bin\Debug\BattleshipCsharp.exe.manifest
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\bin\Debug\BattleshipCsharp.application
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.exe.manifest
+C:\Users\Gereth\source\repos\BattleshipCsharp\BattleshipCsharp\obj\Debug\BattleshipCsharp.application
